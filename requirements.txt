@@ -2,3 +2,7 @@ streamlit
 numpy
 scikit-learn
 pickle
+pandas
+matplotlib
+seaborn
+os
